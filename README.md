@@ -11,7 +11,7 @@ This Excel project explores patterns and trends in customer data to identify fac
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](dashboard_bike.png)
+![Dashboard](dashboard.png)
 
 ## 🧩 Dataset Features
 
